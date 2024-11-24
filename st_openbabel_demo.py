@@ -2,7 +2,9 @@ import streamlit as st
 import pandas as pd
 import tempfile
 
+from openbabel import openbabel
 from openbabel import pybel
+
 from st_table_select_cell import st_table_select_cell
 
 st.header("Openbabel test")
