@@ -1,4 +1,5 @@
 streamlit == 1.40.0
 pandas
+pybel
 openbabel-wheel
 streamlit-table-select-cell
