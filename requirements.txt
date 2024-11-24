@@ -1,5 +1,6 @@
-streamlit == 1.40.0
+numpy
 pandas
-pybel
+Pillow
+streamlit
 openbabel-wheel
 streamlit-table-select-cell
