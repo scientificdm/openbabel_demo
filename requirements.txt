@@ -1,6 +1,5 @@
 numpy == 1.26.4
 pandas == 1.5.3
-pillow == 9.4.0
 streamlit
 openbabel-wheel
 streamlit-table-select-cell
