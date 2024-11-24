@@ -1,5 +1,5 @@
 numpy == 1.26.4
 pandas == 1.5.3
 streamlit
-openbabel-wheel = 3.1.1.20
+openbabel-wheel == 3.1.1.20
 streamlit-table-select-cell
